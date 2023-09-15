@@ -248,7 +248,8 @@
             padding: 10px;
         }
         #logo {
-            width: 14%;
+            /* width: 14%; */
+            display: none;
         }
         #titulo {
             width: 85%;
